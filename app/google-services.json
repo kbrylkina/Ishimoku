@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "253700650867",
+    "firebase_url": "https://newishimoku-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "newishimoku",
+    "storage_bucket": "newishimoku.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253700650867:android:45dbcf2d1a0409250ab706",
+        "android_client_info": {
+          "package_name": "com.example.myapplication.ishimoku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253700650867-l416bgq86n5u3t5pjd59ei0vdsischr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACJI9Y6covjS5slO6wTKj0EwOgkhQXcVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253700650867-l416bgq86n5u3t5pjd59ei0vdsischr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
